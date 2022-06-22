@@ -1,0 +1,7 @@
+Video informativo
+https://www.youtube.com/watch?v=zbWgetWKSpk&list=PLQBsSZ4qJdGk6_wnh1VbVd9tOKOWzoy-r&index=1
+
+links de instalación
+- https://www.slimframework.com/docs/v4/start/installation.html
+- https://php-di.org/doc/getting-started.html
+
